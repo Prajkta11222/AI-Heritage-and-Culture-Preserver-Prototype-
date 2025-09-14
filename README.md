@@ -12,7 +12,7 @@ This project is a **Buildathon Prototype** showing how AI can restore India's he
 ## Links
 - 📌 **Figma Wireframes:** (https://www.figma.com/make/ToOtJBZVYmnaGO5mM9zcQP/Design-AI-Heritage-Restorer-UI?node-id=0-4&t=89W3SGhSjuxpGvDk-1)
 - 📌 **Replit Demo Video:**(https://drive.google.com/file/d/1W-JEqb9rMYWiTp4UzVnhh3BFJRC0S3eb/view?usp=sharing)
-- 📌 **Submission PDFs:** in `/docs` folder
+- 📌 **Submission PDFs:** in `/Docs` folder
 
 ## Team Contributions
 - **Member 1 (Leader)** → Prototype integration, narration, Figma/Replit
